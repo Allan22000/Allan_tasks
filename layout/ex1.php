@@ -11,4 +11,8 @@ echo"Hello world! My name is \"Allan\"";
 ?>
 <h3>Current Date</h3>
 <?php echo date ("d.m.Y") ?>
+
 <?php include "footer.php" ?>
+
+
+
